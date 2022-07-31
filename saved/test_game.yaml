@@ -1,0 +1,7 @@
+--- !ruby/object:Game
+guesses:
+- '1'
+- '2'
+- '3'
+saved: false
+word: harrison
